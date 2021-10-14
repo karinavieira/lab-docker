@@ -17,6 +17,8 @@ Customização
 Docker compose
 
 Sem redis
+
+
 ![image](https://user-images.githubusercontent.com/32457262/137233368-14c8e2f4-715c-41c9-8741-79e95f0337e8.png)
 
 Com redis
